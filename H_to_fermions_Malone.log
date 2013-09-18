@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  12 SEP 2013 21:40
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  17 SEP 2013 17:01
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1083,37 +1083,42 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 [1{/usr/local/texlive/2009/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 61.
+</Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf, id=24, 401.5pt x 143.53625
+pt>
+File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
+)
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [2
+
+ </Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 80.
 
 (/usr/local/texlive/2009/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 61.
+LaTeX Font Info:    Try loading font information for U+msb on input line 80.
 
 (/usr/local/texlive/2009/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/h_br_sm.pdf, i
-d=23, 341.275pt x 341.275pt>
+d=41, 341.275pt x 341.275pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/h_br_sm.p
 df Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/h_br_sm.pd
 f>
-</Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf, id=24, 401.5pt x 143.53625
-pt>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
  <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf>
-Overfull \vbox (0.86444pt too high) detected at line 61
+Overfull \vbox (0.86444pt too high) detected at line 80
  []
 
-[2
+[3
 
- </Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> </Users/caitlinmalone/Doc
-uments/ATLAS/HiggsCouplings2013/figures/h_br_sm.pdf>]
+ </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/h_br_sm.pdf>]
+
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/higgs_feyn_pp.
-pdf, id=51, 498.18121pt x 498.18121pt>
+pdf, id=59, 498.18121pt x 498.18121pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/higgs_fey
 n_pp.pdf Graphic file (type pdf)
 
@@ -1121,166 +1126,210 @@ n_pp.pdf Graphic file (type pdf)
 _pp.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
- <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [3
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [4
 
  </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/higgs_feyn_pp
 .pdf>]
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
 
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [4
+<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [5
 
 ]
-<figures/tau_decay.pdf, id=75, 395.4775pt x 208.78pt>
+<figures/tau_decay.pdf, id=83, 395.4775pt x 208.78pt>
 File: figures/tau_decay.pdf Graphic file (type pdf)
 
 <use figures/tau_decay.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
 
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [5
-
- <./figures/tau_decay.pdf>] <figures/atlas_logo.pdf, id=94, 1505.625pt x 1806.7
-5pt>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
-
-<use figures/atlas_logo.pdf>
-<figures/cms_logo.pdf, id=95, 394.83508pt x 393.6306pt>
-File: figures/cms_logo.pdf Graphic file (type pdf)
-
-<use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
-
-<use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
-
-<use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
-
-<use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
-
-<use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
-
-<use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
-
-<use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
-
-<use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
-
-<use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
-
-<use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
- <use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
-
-<use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
- <use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
-
-<use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
- <use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
-
-<use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
- <use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
-
-<use figures/atlas_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
-
-<use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
- <use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
-
-<use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
- <use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
-
-<use figures/atlas_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
-
-<use figures/atlas_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
-
-<use figures/atlas_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
-
-<use figures/cms_logo.pdf>
-File: figures/atlas_logo.pdf Graphic file (type pdf)
- <use figures/atlas_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
-
-<use figures/cms_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
- <use figures/cms_logo.pdf>
-File: figures/cms_logo.pdf Graphic file (type pdf)
-
-<use figures/cms_logo.pdf>
-File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
-)
-
 <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [6
 
- <./figures/atlas_logo.pdf> <./figures/cms_logo.pdf>]
+ <./figures/tau_decay.pdf>] <figures/atlas_logo.pdf, id=102, 1505.625pt x 1806.
+75pt>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+
+<use figures/atlas_logo.pdf>
+<figures/cms_logo.pdf, id=103, 394.83508pt x 393.6306pt>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+
+<use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+
+<use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+
+<use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+
+<use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+
+<use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+
+<use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+
+<use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+
+<use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+
+<use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+
+<use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+ <use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+
+<use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+ <use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+
+<use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+ <use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+
+<use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+ <use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+
+<use figures/atlas_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+
+<use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+ <use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+
+<use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+ <use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+
+<use figures/atlas_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+
+<use figures/atlas_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+
+<use figures/atlas_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+
+<use figures/cms_logo.pdf>
+File: figures/atlas_logo.pdf Graphic file (type pdf)
+ <use figures/atlas_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+
+<use figures/cms_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+ <use figures/cms_logo.pdf>
+File: figures/cms_logo.pdf Graphic file (type pdf)
+
+<use figures/cms_logo.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
 
 <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [7
 
-]
+ <./figures/atlas_logo.pdf> <./figures/cms_logo.pdf>]
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htautau_co
+llinear_diagram.pdf, id=131, 414.54875pt x 319.1925pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htaut
+au_collinear_diagram.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htauta
+u_collinear_diagram.pdf>
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htautau_
+embedding_before.pdf, id=132, 569.12625pt x 546.04pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hta
+utau_embedding_before.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htau
+tau_embedding_before.pdf>
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htautau_
+embedding_after.pdf, id=133, 569.12625pt x 546.04pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hta
+utau_embedding_after.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htau
+tau_embedding_after.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
 
 <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [8
 
-]
+ </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htautau_c
+ollinear_diagram.pdf> </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/
+figures/atlas_htautau_embedding_before.pdf> </Users/caitlinmalone/Documents/ATL
+AS/HiggsCouplings2013/figures/atlas_htautau_embedding_after.pdf>]
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htautau_ma
+ss_before.pdf, id=330, 569.12625pt x 552.0625pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htaut
+au_mass_before.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htauta
+u_mass_before.pdf>
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htautau_ma
+ss_after.pdf, id=331, 569.12625pt x 552.0625pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htaut
+au_mass_after.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htauta
+u_mass_after.pdf>
+File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
+)
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf>
+Overfull \vbox (3.52698pt too high) detected at line 294
+ []
+
+[9
+
+ </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htautau_m
+ass_before.pdf, page is rotated 90 degrees> </Users/caitlinmalone/Documents/ATL
+AS/HiggsCouplings2013/figures/cms_htautau_mass_after.pdf, page is rotated 90 de
+grees>]
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htautau_br
-azil.pdf, id=135, 569.12625pt x 546.04pt>
+azil.pdf, id=424, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htaut
 au_brazil.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htauta
 u_brazil.pdf>
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htautau_p_
-value.pdf, id=136, 569.12625pt x 546.04pt>
+value.pdf, id=425, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htaut
 au_p_value.pdf Graphic file (type pdf)
 
@@ -1289,25 +1338,47 @@ u_p_value.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
  <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf>
-[9
+[10
 
  </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htautau_b
 razil.pdf, page is rotated 90 degrees> </Users/caitlinmalone/Documents/ATLAS/Hi
 ggsCouplings2013/figures/cms_htautau_p_value.pdf, page is rotated 90 degrees>]
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthtautau_
+brazil.pdf, id=518, 569.12625pt x 408.52625pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthta
+utau_brazil.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthtau
+tau_brazil.pdf>
+Overfull \hbox (39.94682pt too wide) in paragraph at lines 338--338
+[]  
+ []
+
+
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhtautau_b
+razil.pdf, id=519, 537.00626pt x 532.99126pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhtau
+tau_brazil.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhtaut
+au_brazil.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
- <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [10
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf>
+[11
 
-]
+ </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthtautau
+_brazil.pdf, page is rotated 90 degrees> </Users/caitlinmalone/Documents/ATLAS/
+HiggsCouplings2013/figures/cms_vhtautau_brazil.pdf>]
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htautau_
-brazil.pdf, id=235, 569.12625pt x 546.04pt>
+brazil.pdf, id=583, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hta
 utau_brazil.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htau
 tau_brazil.pdf>
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htautau_
-p_value.pdf, id=236, 569.12625pt x 541.02126pt>
+p_value.pdf, id=584, 569.12625pt x 541.02126pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hta
 utau_p_value.pdf Graphic file (type pdf)
 
@@ -1316,57 +1387,45 @@ tau_p_value.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
  <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf>
-[11
+[12
 
  </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htautau
 _brazil.pdf> </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/a
-tlas_htautau_p_value.pdf>] [12
+tlas_htautau_p_value.pdf>] [13
 
 ]
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
 
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [13
+<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [14
 
 ]
-</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb_del
-ta_eta.pdf, id=331, 569.12625pt x 363.3575pt>
-File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhb
-b_delta_eta.pdf Graphic file (type pdf)
-
-<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb
-_delta_eta.pdf>
-Overfull \hbox (10.14124pt too wide) in paragraph at lines 344--344
-[]  
- []
-
-
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb_ann
-_output.pdf, id=332, 569.12625pt x 363.3575pt>
+_output.pdf, id=679, 569.12625pt x 363.3575pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhb
 b_ann_output.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb
 _ann_output.pdf>
-Overfull \hbox (10.14124pt too wide) in paragraph at lines 344--344
+Overfull \hbox (10.14124pt too wide) in paragraph at lines 414--414
 []  
  []
 
 
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb_ann
-_categories.pdf, id=333, 569.12625pt x 363.3575pt>
+_categories.pdf, id=680, 569.12625pt x 363.3575pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhb
 b_ann_categories.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb
 _ann_categories.pdf>
-Overfull \hbox (10.14124pt too wide) in paragraph at lines 344--344
+Overfull \hbox (10.14124pt too wide) in paragraph at lines 414--414
 []  
  []
 
 
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb_bra
-zil.pdf, id=334, 569.12625pt x 363.3575pt>
+zil.pdf, id=681, 569.12625pt x 363.3575pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhb
 b_brazil.pdf Graphic file (type pdf)
 
@@ -1374,61 +1433,134 @@ b_brazil.pdf Graphic file (type pdf)
 _brazil.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
- <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [14
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [15
 
- </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb_de
-lta_eta.pdf, page is rotated 90 degrees> </Users/caitlinmalone/Documents/ATLAS/
-HiggsCouplings2013/figures/cms_vbfhbb_ann_output.pdf, page is rotated 90 degree
-s> </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb_
-ann_categories.pdf, page is rotated 90 degrees> </Users/caitlinmalone/Documents
-/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb_brazil.pdf, page is rotated 90 deg
-rees>]
-File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
-)
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [15
-
-]
+ </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb_an
+n_output.pdf, page is rotated 90 degrees> </Users/caitlinmalone/Documents/ATLAS
+/HiggsCouplings2013/figures/cms_vbfhbb_ann_categories.pdf, page is rotated 90 d
+egrees> </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vb
+fhbb_brazil.pdf, page is rotated 90 degrees>]
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
 
 <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [16
 
 ]
-</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_logo.pdf, 
-id=525, 394.83508pt x 393.6306pt>
-File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_logo.
-pdf Graphic file (type pdf)
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tthbb_ca
+tegories_1.pdf, id=823, 569.12625pt x 385.44pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tth
+bb_categories_1.pdf Graphic file (type pdf)
 
-<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_logo.p
-df>
-Overfull \hbox (35.42517pt too wide) in paragraph at lines 402--402
- [] 
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tthb
+b_categories_1.pdf>
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tthbb_ca
+tegories_2.pdf, id=824, 569.12625pt x 256.96pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tth
+bb_categories_2.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tthb
+b_categories_2.pdf>
+File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
+)
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf>
+[17
+
+ </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tthbb_c
+ategories_1.pdf> </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figur
+es/atlas_tthbb_categories_2.pdf>]
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tthbb_br
+azil.pdf, id=889, 569.12625pt x 385.44pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tth
+bb_brazil.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tthb
+b_brazil.pdf>
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthbb_braz
+il_lepton_jets.pdf, id=890, 569.12625pt x 408.52625pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthbb
+_brazil_lepton_jets.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthbb_
+brazil_lepton_jets.pdf>
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthbb_braz
+il_dilepton.pdf, id=891, 569.12625pt x 408.52625pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthbb
+_brazil_dilepton.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthbb_
+brazil_dilepton.pdf>
+File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
+)
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf>
+Overfull \vbox (8.1762pt too high) detected at line 482
+ []
+
+[18
+
+ </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tthbb_b
+razil.pdf> </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms
+_tthbb_brazil_lepton_jets.pdf, page is rotated 90 degrees> </Users/caitlinmalon
+e/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthbb_brazil_dilepton.pdf, pag
+e is rotated 90 degrees>]
+File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
+)
+
+<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [19
+
+]
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_del
+ta_phi_uncorrected.pdf, id=1029, 569.12625pt x 487.8225pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhb
+b_delta_phi_uncorrected.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb
+_delta_phi_uncorrected.pdf>
+Overfull \hbox (15.36426pt too wide) in paragraph at lines 538--538
+[][]  
  []
 
 
-</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_logo.pdf
-, id=526, 1505.625pt x 1806.75pt>
-File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_log
-o.pdf Graphic file (type pdf)
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_del
+ta_phi_corrected.pdf, id=1030, 569.12625pt x 487.8225pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhb
+b_delta_phi_corrected.pdf Graphic file (type pdf)
 
-<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_logo
-.pdf>
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb
+_delta_phi_corrected.pdf>
+Overfull \hbox (15.36426pt too wide) in paragraph at lines 538--538
+[][]  
+ []
+
+
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_mbb_d
+istribution.pdf, id=1031, 569.12625pt x 546.04pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_
+mbb_distribution.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_m
+bb_distribution.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
- <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [17
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf>
+Overfull \vbox (23.77122pt too high) detected at line 538
+ []
 
- </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_logo.pdf>
- </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_logo.pd
-f>]
+[20
+
+ </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_de
+lta_phi_uncorrected.pdf> </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings20
+13/figures/atlas_vhbb_delta_phi_corrected.pdf> </Users/caitlinmalone/Documents/
+ATLAS/HiggsCouplings2013/figures/cms_vhbb_mbb_distribution.pdf, page is rotated
+ 90 degrees>]
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_bdt_s
-ensitive.pdf, id=552, 569.12625pt x 546.04pt>
+ensitive.pdf, id=1163, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_
 bdt_sensitive.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_b
 dt_sensitive.pdf>
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_bdt_a
-ll.pdf, id=553, 569.12625pt x 546.04pt>
+ll.pdf, id=1164, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_
 bdt_all.pdf Graphic file (type pdf)
 
@@ -1436,21 +1568,21 @@ bdt_all.pdf Graphic file (type pdf)
 dt_all.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
- <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [18
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [21
 
  </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_bdt_
 sensitive.pdf, page is rotated 90 degrees> </Users/caitlinmalone/Documents/ATLA
 S/HiggsCouplings2013/figures/cms_vhbb_bdt_all.pdf, page is rotated 90 degrees>]
 
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_brazi
-l.pdf, id=646, 569.12625pt x 546.04pt>
+l.pdf, id=1257, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_
 brazil.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_b
 razil.pdf>
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_p_val
-ue.pdf, id=647, 569.12625pt x 546.04pt>
+ue.pdf, id=1258, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_
 p_value.pdf Graphic file (type pdf)
 
@@ -1458,33 +1590,27 @@ p_value.pdf Graphic file (type pdf)
 _value.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
- <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [19
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [22
 
  </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_braz
 il.pdf, page is rotated 90 degrees> </Users/caitlinmalone/Documents/ATLAS/Higgs
 Couplings2013/figures/cms_vhbb_p_value.pdf, page is rotated 90 degrees>]
-File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
-)
-
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [20
-
-]
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_0le
-p_2jet_2tags_200GeV.pdf, id=747, 569.12625pt x 546.04pt>
+p_2jet_2tags_200GeV.pdf, id=1351, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhb
 b_0lep_2jet_2tags_200GeV.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb
 _0lep_2jet_2tags_200GeV.pdf>
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_1le
-p_2jet_2tags_200GeV.pdf, id=748, 569.12625pt x 546.04pt>
+p_2jet_2tags_200GeV.pdf, id=1352, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhb
 b_1lep_2jet_2tags_200GeV.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb
 _1lep_2jet_2tags_200GeV.pdf>
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_2le
-p_2jet_2tags_200GeV.pdf, id=749, 569.12625pt x 546.04pt>
+p_2jet_2tags_200GeV.pdf, id=1353, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhb
 b_2lep_2jet_2tags_200GeV.pdf Graphic file (type pdf)
 
@@ -1493,21 +1619,21 @@ _2lep_2jet_2tags_200GeV.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
 
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [21
+<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [23
 
  </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_0l
 ep_2jet_2tags_200GeV.pdf> </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2
 013/figures/atlas_vhbb_1lep_2jet_2tags_200GeV.pdf> </Users/caitlinmalone/Docume
 nts/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_2lep_2jet_2tags_200GeV.pdf>]
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_bra
-zil.pdf, id=892, 569.12625pt x 450.68375pt>
+zil.pdf, id=1495, 569.12625pt x 450.68375pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhb
 b_brazil.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb
 _brazil.pdf>
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_p_v
-alue.pdf, id=893, 569.12625pt x 546.04pt>
+alue.pdf, id=1496, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhb
 b_p_value.pdf Graphic file (type pdf)
 
@@ -1515,74 +1641,83 @@ b_p_value.pdf Graphic file (type pdf)
 _p_value.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
- <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [22
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [24
 
  </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_br
 azil.pdf> </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atla
-s_vhbb_p_value.pdf>]
-File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
-)
- <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf>
-[23
+s_vhbb_p_value.pdf>] [25
 
 ]
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/hmumu_theory.p
+df, id=1580, 932.48375pt x 465.74pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/hmumu_the
+ory.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/hmumu_theo
+ry.pdf>
+File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
+)
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [26
+
+ </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/hmumu_theory.
+pdf>]
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmumu_ma
-ss_linear.pdf, id=976, 569.12625pt x 546.04pt>
+ss_linear.pdf, id=1596, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmu
 mu_mass_linear.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmum
 u_mass_linear.pdf>
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmumu_ma
-ss_sim_central.pdf, id=977, 569.12625pt x 546.04pt>
+ss_sim_central.pdf, id=1597, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmu
 mu_mass_sim_central.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmum
 u_mass_sim_central.pdf>
-Overfull \hbox (7.68271pt too wide) in paragraph at lines 573--573
+Overfull \hbox (7.68271pt too wide) in paragraph at lines 725--725
 [][]  
  []
 
 
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmumu_ma
-ss_data_central.pdf, id=978, 569.12625pt x 546.04pt>
+ss_data_central.pdf, id=1598, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmu
 mu_mass_data_central.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmum
 u_mass_data_central.pdf>
-Overfull \hbox (7.68271pt too wide) in paragraph at lines 573--573
+Overfull \hbox (7.68271pt too wide) in paragraph at lines 725--725
 [][]  
  []
 
 
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmumu_ma
-ss_sim_non_central.pdf, id=979, 569.12625pt x 546.04pt>
+ss_sim_non_central.pdf, id=1599, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmu
 mu_mass_sim_non_central.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmum
 u_mass_sim_non_central.pdf>
-Overfull \hbox (7.68271pt too wide) in paragraph at lines 573--573
+Overfull \hbox (7.68271pt too wide) in paragraph at lines 725--725
 [][]  
  []
 
 
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmumu_ma
-ss_data_non_central.pdf, id=980, 569.12625pt x 546.04pt>
+ss_data_non_central.pdf, id=1600, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmu
 mu_mass_data_non_central.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmum
 u_mass_data_non_central.pdf>
-Overfull \hbox (7.68271pt too wide) in paragraph at lines 573--573
+Overfull \hbox (7.68271pt too wide) in paragraph at lines 725--725
 [][]  
  []
 
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [24
+<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [27
 
  </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmumu_m
 ass_linear.pdf, page is rotated 90 degrees> </Users/caitlinmalone/Documents/ATL
@@ -1594,26 +1729,26 @@ l.pdf, page is rotated 90 degrees> </Users/caitlinmalone/Documents/ATLAS/HiggsC
 ouplings2013/figures/atlas_hmumu_mass_data_non_central.pdf, page is rotated 90 
 degrees>]
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmumu_br
-azil.pdf, id=1203, 569.12625pt x 408.52625pt>
+azil.pdf, id=1823, 569.12625pt x 408.52625pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmu
 mu_brazil.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmum
 u_brazil.pdf>
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmumu_p_
-value.pdf, id=1204, 569.12625pt x 408.52625pt>
+value.pdf, id=1824, 569.12625pt x 408.52625pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmu
 mu_p_value.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmum
 u_p_value.pdf>
-Overfull \hbox (17.9468pt too wide) in paragraph at lines 600--600
+Overfull \hbox (17.9468pt too wide) in paragraph at lines 752--752
  [] 
  []
 
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [25
+<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [28
 
  </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hmumu_b
 razil.pdf, page is rotated 90 degrees> </Users/caitlinmalone/Documents/ATLAS/Hi
@@ -1621,42 +1756,64 @@ ggsCouplings2013/figures/atlas_hmumu_p_value.pdf, page is rotated 90 degrees>]
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
 
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [26
+<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [29
+
+]
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_mu_all_c
+hannels.pdf, id=1923, 569.12625pt x 541.02126pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_mu_
+all_channels.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_mu_a
+ll_channels.pdf>
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_mu_all_cha
+nnels.pdf, id=1924, 569.12625pt x 546.04pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_mu_al
+l_channels.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_mu_all
+_channels.pdf>
+File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
+)
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf>
+[30
+
+ </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_mu_all_
+channels.pdf> </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/
+cms_mu_all_channels.pdf, page is rotated 90 degrees>]
+File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
+)
+
+<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [31
 
 ]
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
 
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [27
+<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [32
+
+] [33
 
 ]
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
 
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [28
-
-] [29
+<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [34
 
 ]
-File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
-)
-
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [30
-
-]
-<figures/cms_htautau_mumu_VBF.pdf, id=1349, 569.12625pt x 546.04pt>
+<figures/cms_htautau_mumu_VBF.pdf, id=2056, 569.12625pt x 546.04pt>
 File: figures/cms_htautau_mumu_VBF.pdf Graphic file (type pdf)
 
 <use figures/cms_htautau_mumu_VBF.pdf>
-<figures/cms_htautau_emu_VBF.pdf, id=1350, 569.12625pt x 546.04pt>
+<figures/cms_htautau_emu_VBF.pdf, id=2057, 569.12625pt x 546.04pt>
 File: figures/cms_htautau_emu_VBF.pdf Graphic file (type pdf)
 
 <use figures/cms_htautau_emu_VBF.pdf>
-<figures/atlas_htautau_leplep_VBF_7TeV.pdf, id=1351, 569.12625pt x 546.04pt>
+<figures/atlas_htautau_leplep_VBF_7TeV.pdf, id=2058, 569.12625pt x 546.04pt>
 File: figures/atlas_htautau_leplep_VBF_7TeV.pdf Graphic file (type pdf)
 
 <use figures/atlas_htautau_leplep_VBF_7TeV.pdf>
-<figures/atlas_htautau_leplep_VBF_8TeV.pdf, id=1352, 569.12625pt x 546.04pt>
+<figures/atlas_htautau_leplep_VBF_8TeV.pdf, id=2059, 569.12625pt x 546.04pt>
 File: figures/atlas_htautau_leplep_VBF_8TeV.pdf Graphic file (type pdf)
 
 <use figures/atlas_htautau_leplep_VBF_8TeV.pdf>
@@ -1664,16 +1821,16 @@ File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
 
 <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf>
-Overfull \vbox (3.30841pt too high) detected at line 665
+Overfull \vbox (3.30841pt too high) detected at line 849
  []
 
-[31
+[35
 
  <./figures/cms_htautau_mumu_VBF.pdf, page is rotated 90 degrees> <./figures/cm
 s_htautau_emu_VBF.pdf, page is rotated 90 degrees> <./figures/atlas_htautau_lep
 lep_VBF_7TeV.pdf> <./figures/atlas_htautau_leplep_VBF_8TeV.pdf>]
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htautau_si
-gnal_strength.pdf, id=1528, 569.12625pt x 408.52625pt>
+gnal_strength.pdf, id=2234, 569.12625pt x 408.52625pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htaut
 au_signal_strength.pdf Graphic file (type pdf)
 
@@ -1682,26 +1839,26 @@ u_signal_strength.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
 
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [32
+<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [36
 
  </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htautau_s
 ignal_strength.pdf, page is rotated 90 degrees>]
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htautau_
-leplep_brazil.pdf, id=1578, 569.12625pt x 546.04pt>
+leplep_brazil.pdf, id=2284, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hta
 utau_leplep_brazil.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htau
 tau_leplep_brazil.pdf>
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htautau_
-lephad_brazil.pdf, id=1579, 569.12625pt x 546.04pt>
+lephad_brazil.pdf, id=2285, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hta
 utau_lephad_brazil.pdf Graphic file (type pdf)
 
 <use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htau
 tau_lephad_brazil.pdf>
 </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htautau_
-hadhad_brazil.pdf, id=1580, 569.12625pt x 546.04pt>
+hadhad_brazil.pdf, id=2286, 569.12625pt x 546.04pt>
 File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_hta
 utau_hadhad_brazil.pdf Graphic file (type pdf)
 
@@ -1710,12 +1867,38 @@ tau_hadhad_brazil.pdf>
 File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
 )
 
-<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [33
+<use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [37
 
  </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htautau
 _leplep_brazil.pdf> </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/fi
 gures/atlas_htautau_lephad_brazil.pdf> </Users/caitlinmalone/Documents/ATLAS/Hi
 ggsCouplings2013/figures/atlas_htautau_hadhad_brazil.pdf>]
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_logo.pdf, 
+id=2416, 394.83508pt x 393.6306pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_logo.
+pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_logo.p
+df>
+Overfull \hbox (35.42517pt too wide) in paragraph at lines 933--933
+ [] 
+ []
+
+
+</Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_logo.pdf
+, id=2417, 1505.625pt x 1806.75pt>
+File: /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_log
+o.pdf Graphic file (type pdf)
+
+<use /Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_logo
+.pdf>
+File: /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf Graphic file (type pdf
+)
+ <use /Users/caitlinmalone/Documents/ATLAS/slac_logo.pdf> [38
+
+ </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_logo.pdf>
+ </Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_logo.pd
+f>]
 \tf@nav=\write7
 \openout7 = `H_to_fermions_Malone.nav'.
 
@@ -1725,39 +1908,43 @@ ggsCouplings2013/figures/atlas_htautau_hadhad_brazil.pdf>]
 \tf@snm=\write9
 \openout9 = `H_to_fermions_Malone.snm'.
 
- (./H_to_fermions_Malone.aux)
+
+(./H_to_fermions_Malone.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 20719 strings out of 493848
- 457370 string characters out of 3149207
+ 20855 strings out of 493848
+ 465621 string characters out of 3149207
  563895 words of memory out of 3000000
- 23344 multiletter control sequences out of 15000+200000
+ 23453 multiletter control sequences out of 15000+200000
  19050 words of font info for 71 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 48i,15n,57p,420b,625s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,15n,57p,420b,723s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 ></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></
 usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
-r/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
-local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/l
-ocal/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/lo
-cal/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/loca
-l/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/loca
-l/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/loca
-l/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></usr/loca
-l/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local
-/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
-texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/te
-xlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texl
-ive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on H_to_fermions_Malone.pdf (33 pages, 4328530 bytes).
+r/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/lo
+cal/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
+exlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/te
+xlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/tex
+live/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texli
+ve/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texli
+ve/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/local/texli
+ve/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></usr/local/texli
+ve/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texliv
+e/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
+/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2
+009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/200
+9/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on H_to_fermions_Malone.pdf (38 pages, 5020678 bytes).
 PDF statistics:
- 1775 PDF objects out of 2073 (max. 8388607)
- 67 named destinations out of 1000 (max. 500000)
- 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2515 PDF objects out of 2984 (max. 8388607)
+ 77 named destinations out of 1000 (max. 500000)
+ 330 words of extra memory for PDF output out of 10000 (max. 10000000)
 

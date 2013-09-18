@@ -47,6 +47,25 @@
 \frame{\titlepage}
 
 
+
+\begin{frame}{Background on this talk (this is not a real slide)}
+	\begin{itemize}
+		\item Title: ``Higgs boson decays to fermions at ATLAS and CMS''
+		\item Conference: Higgs Couplings 2013 (Frieburg)
+		\item Time: 30+5 minutes
+		\item Audience: 80ish(?) experts, who are interested in the guts of the analyses (according to the organizers)
+		\item 3rd talk of the conference, further talks will cover couplings, mass, BSM Higgs sector, etc. in more detail
+		\begin{itemize}
+			\item Leading talk: ``Electroweak Symmetry Breaking'' (J. Iliopolous)
+			\item Second talk: ``Higgs decays to bosons at ATLAS and CMS'' (some CMS person)
+			\item Third talk: yours truly
+		\end{itemize}
+		\item The slides shown today still need lots of formatting work--comments are more solicited on content and high-level stuff than details
+	\end{itemize}
+\end{frame}
+
+
+
 \begin{frame}{Introduction}
 	\begin{itemize} \scriptsize
 		\item New Higgs boson discovered near 125 GeV first seen and studied in bosonic channels \textcolor{Teal}{($H\rightarrow\gamma\gamma$, $H\rightarrow ZZ\rightarrow 4l$, $H\rightarrow WW \rightarrow l\nu l \nu$)}
@@ -228,14 +247,50 @@
 
 
 
-\begin{frame}{$\tau$ Reconstruction and Embedding}
+\begin{frame}{$\nu$ Orientation Cuts and $\tau$ Embedding}
+	\begin{columns}[c]
+		\column{0.4\textwidth}
+		$\nu$ Direction Cuts \\
+		\begin{itemize} \scriptsize
+			\item $\tau$ from H decay highly boosted and decay products collimated
+			\item Place cuts on how $E_T^{miss}$ oriented relative to visible $\tau$ decay products
+		\end{itemize}
 
+		
+		\column{0.6\textwidth}	
+		$\tau$ Embedding
+			\begin{itemize} \scriptsize
+				\item Pure sample of $Z\rightarrow\tau\tau$ events difficult to get in data
+				\item Embedding: get data-driven sample of $Z\rightarrow\mu\mu$ events, replace $\mu$ with simulated $\tau$
+				\item Gets Z kinematics, pileup, underlying event from data
+			\end{itemize}
+	\end{columns}
+	
+	\begin{columns}[c]
+		\column{0.4\textwidth}
+			\includegraphics[width=0.9\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htautau_collinear_diagram.pdf}				
+		\column{0.3\textwidth}
+			\includegraphics[width=\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htautau_embedding_before.pdf}
+		\column{0.3\textwidth}
+			\includegraphics[width=\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_htautau_embedding_after.pdf}	
+	\end{columns}
 \end{frame}
 
 
 
-\begin{frame}{CMS Analysis}
-
+\begin{frame}{$\tau$ Invariant Mass Reconstruction}
+	\begin{itemize} \scriptsize
+		\item Straightforward assumption of $\nu$ collinear with visible $\tau$ decay products gives an unphysical solution when doing $\tau$ reconstruction, especially when $E_T^{miss}$ and boson parent mass are small
+		\item ATLAS: Missing Mass Calculator (MMC) \textcolor{BrickRed}{(Looking for an approved ATLAS plot or mass resolution number)}
+		\item CMS: SVFit Algorithm (20\% mass resolution after applying algorithm)
+		\item Idea: given the $\tau$ decay modes and the event kinematics, allocate the $E_T^{miss}$ according to the maximization of a likelihood function
+	\end{itemize}
+	\begin{columns}
+		\column{0.5\textwidth}
+			\includegraphics[width=\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htautau_mass_before.pdf}		
+		\column{0.5\textwidth}
+			\includegraphics[width=\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_htautau_mass_after.pdf}	
+	\end{columns}
 \end{frame}
 
 
@@ -264,12 +319,23 @@
 
 
 
-\begin{frame}{ATLAS Analysis and MMC}
+\begin{frame}{CMS: $ttH\rightarrow\tau\tau$ and $VH\rightarrow\tau\tau$}
+	
 
+	\begin{columns}[c]
+		\column{0.5\textwidth}
+			$ttH\rightarrow l\nu qq bb$
+			\includegraphics[width=1.26\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthtautau_brazil.pdf}
+		\column{0.5\textwidth}
+			$VH\rightarrow\tau\tau$
+			\includegraphics[width=0.9\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhtautau_brazil.pdf}
+	\end{columns}
+	
+%	\begin{columns}[c]
+%		\column{0.5\textwidth}
+%		\column{0.5\textwidth}		
+%	\end{columns}
 \end{frame}
-
-
-
 
 
 
@@ -322,15 +388,18 @@
 
 \begin{frame}{CMS VBF $H\rightarrow bb$}	
 	\begin{columns}[c]
-		\column{0.33\textwidth}	
-			\scriptsize Event topology characterized by large $\Delta\eta$ between non-b-tagged jets	
-			\includegraphics[width=1.1\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb_delta_eta.pdf}
+%		\column{0.5\textwidth}	%
+%			\scriptsize Event topology characterized by large $\Delta\eta$ between non-b-tagged jets	5
+%			\includegraphics[width=1.1\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb_delta_eta.pdf}
 		\column{0.33\textwidth}
 			\scriptsize ANN discriminant based on event topology and b-tag values
 			\includegraphics[width=1.1\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb_ann_output.pdf}
 		\column{0.33\textwidth}
 			\scriptsize Highest categories of ANN heavily dominated by VBF production (vs. ggF)
 			\includegraphics[width=1.1\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vbfhbb_ann_categories.pdf}
+		\column{0.33\textwidth}
+			\scriptsize Depending on the ANN category, the VBF channel can have up to 47\% ggF Higgs signal \\
+			\textcolor{BrickRed}{Yesterday's discovery (gg$\rightarrow$H) is today's measurement and tomorrow's background}
 	\end{columns}
 	\begin{columns}[c]
 		\column{0.5\textwidth}
@@ -338,68 +407,137 @@
 		\column{0.5\textwidth}
 		\scriptsize 
 
-		For $m_H$=125 GeV, 95\% CL upper limits on cross section is 3.6 (3.0) $\times$ SM (background-only hypothesis) and observed signal strength $\mu$=0.7$\pm$1.4
+		For $m_H$=125 GeV, 95\% CL upper limits on cross section is 3.6 (3.0) $\times$ SM (background-only hypothesis) and observed signal strength $\mu$=0.7$\pm$1.4 \\
+		\textcolor{Navy}{There is a 20-50\% uncertainty on the $gg\rightarrow H$ normalization, which makes a precise measurement of VBF Higgs production difficult}
 	\end{columns}
-	\scriptsize\textcolor{Teal}{ATLAS VBF results still in progress, with result planned for winter 2014}
-\end{frame}
-
-
-
-\begin{frame}{CMS ttH}
-
-\end{frame}
-
-
-\begin{frame}{ATLAS ttH}
-
+	\scriptsize\textcolor{Teal}{ATLAS VBF analysis still in progress, with result planned for winter 2014}
 \end{frame}
 
 
 
 
+\begin{frame}{$ttH,\ H\rightarrow bb$: ATLAS and CMS differences}
+	\begin{columns}
+		\column{0.5\textwidth}
+			ATLAS \\
+				\begin{itemize} \scriptsize
+					\item Kinematic fit to reconstruct the top quarks, and determine which b quarks to use in Higgs reconstruction
+					\item Final discriminant: $m_{bb}$
+					\item Includes only $tt\rightarrow l\nu q\bar{q}$
+					\item Result: observed (expected) sensitivity of 13.1 (10.5) $\times$ SM
+				\end{itemize}
+		\column{0.5\textwidth}
+			CMS \\
+				\begin{itemize} \scriptsize
+					\item Result combined with $ttH,\ H\rightarrow\tau\tau$
+					\item Final discriminant: output of BDT, look for excess in most Higgs-enriched categories
+					\item Includes both $tt\rightarrow l\nu l\nu$ and $tt\rightarrow l\nu q\bar{q}$
+				\end{itemize}
+	\end{columns}
+\end{frame}
 
 
 
-
-\begin{frame}{Binning in $P^V_T$}
-	\scriptsize
-	\textcolor{Teal}{Backgrounds are substantially reduced by requiring a significant boost of the $p_T$ of the vector boson, $p^V_T$. \\}
-	\textcolor{Navy}{The boost categories (all numbers in GeV) below are for CMS and ATLAS.}
+\begin{frame}{$ttH,\ H\rightarrow bb$: ATLAS and CMS similarities}
 	\begin{columns}[c]
 		\column{0.5\textwidth}
-			\begin{table}
-			\scriptsize
-			\begin{tabular}{c | c | c | c }
-				& low & medium & high \\ \hline
-			W($l\nu$) & 100-130 & 130-180 & $>$180 \\
-			W($\tau\nu$) & & & $>$120 \\
-			Z($\nu\nu$)  & 100-130 & 130-170 & $>$170 \\
-			Z($ll$)   & 50-100 & & $>$100 \\
-			\end{tabular}
-			\end{table}
+			\includegraphics[width=\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tthbb_categories_1.pdf}
 		\column{0.5\textwidth}
-	\includegraphics[width=0.25\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_logo.pdf}
+			\includegraphics[width=\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tthbb_categories_2.pdf}
+	\end{columns}
+	\begin{itemize} \scriptsize
+		\item Binning of analysis in njets, ntags
+			\begin{itemize} \scriptsize
+				\item ATLAS: 4-6 jets, 0-4 b-tags
+				\item CMS varies by channel: 7 combinations ($tt\rightarrow l\nu qq$), 3 combinations ($tt\rightarrow l\nu l\nu$),  6 combinations ($H\rightarrow \tau\tau$)
+			\end{itemize}
+		\item Also bins analysis in S/B
+		\item Recently synchronized systematics on tt+HF background, leading to higher systematics (relative to 2011) for CMS
+	\end{itemize}
+\end{frame}
+
+
+
+
+
+\begin{frame}{$ttH,\ H\rightarrow bb$: Results}
+	\begin{columns}[c]
+		\column{0.5\textwidth}
+		ATLAS\\
+		\column{0.5\textwidth}
+		CMS
 	\end{columns}
 
 	\begin{columns}[c]
-		\column{0.6\textwidth}
-			\begin{table}
-			\scriptsize
-				\begin{tabular}{c | c | c | c | c | c}
-				 & low & med-low & medium & med-high & high \\ \hline
-				W($l\nu$) & 0-90 & 90-120 & 120-160 & 160-200 & $>$200 \\
-				Z($\nu\nu$) & $^{*}$ & $^{*}$ & 120-160 & 160-200 & $>$200 \\
-				Z($ll$) & 0-90 & 90-120 & 120-160 & 160-200 & $>$200 \\
-				\end{tabular}
-			\end{table}
-			\tiny{ 
-			$^{*}$ $E_{T}^{miss}$ trigger becomes 90\% efficient at $E_{T}^{miss}$=120 GeV }\\
-			\vspace{0.3cm}
-			\textcolor{BrickRed}{\scriptsize{Each vector boson final state and $p_T$ category is further subdivided into 2-jet and 3-jet signal regions}}
-		\column{0.2\textwidth}
-	\includegraphics[width=0.6\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_logo.pdf}		
+		\column{0.5\textwidth}
+			\includegraphics[width=\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_tthbb_brazil.pdf} \\
+			\vspace{2.5cm}
+					\scriptsize
+					top row: ATLAS and CMS results for $ttH\rightarrow l\nu qqbb$\\
+					bottom: CMS results for $ttH\rightarrow l\nu l\nu bb$\\
+		\column{0.5\textwidth}
+			\includegraphics[width=\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthbb_brazil_lepton_jets.pdf}	\\
+			\includegraphics[width=\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_tthbb_brazil_dilepton.pdf}		
 	\end{columns}
 \end{frame}
+
+
+
+
+\begin{frame}{$VH\rightarrow bb$ at ATLAS and CMS: Similarities}
+	\begin{itemize} \scriptsize
+		\item $Z\rightarrow \nu\nu$, $W\rightarrow l\nu$, $Z\rightarrow ll$ analyses 
+		\item Analyses binned in $p^V_T$ to extract extra sensitivity from most powerful regions
+			\begin{itemize} \scriptsize
+				\item Trigger on associated vector boson: higher $p_T^V$ means higher efficiency
+				\item High $p_T^V$ means harder Higgs, with better resolution of jets (and, by extension, $m_{bb}$)
+			\end{itemize}
+		\item Jet correction based on $H\rightarrow bb$ used to improve mass resolution
+			\begin{itemize} \scriptsize
+				\item CMS: improves mass resolution by about 15\%, overall sensitivity by 10-20\%
+				\item ATLAS: improves mass resolution by about 10-12\%
+				\item \textcolor{BrickRed}{currently tracking down plot or two to show here}
+			\end{itemize}
+		\item Validated using $Z\rightarrow bb$ events
+			\begin{itemize} \scriptsize
+				\item CMS: 7.5$\sigma$, $\mu=1.19^{+0.28}_{-0.23}$
+				\item ATLAS: 4.8$\sigma$, $\mu=0.9\pm0.2$
+			\end{itemize}
+	\end{itemize}
+	\scriptsize\textcolor{Teal}{Tevatron results help round out the picture} \href{http://arxiv.org/abs/1305.1530}{(link)}
+\end{frame}
+
+
+
+\begin{frame}{$VH\rightarrow bb$ at ATLAS and CMS: Differences}
+	\begin{columns}
+		\column{0.5\textwidth}
+		ATLAS
+			\begin{itemize} \scriptsize
+				\item Cut-based analysis 
+				\item Signal region has 2 b-tags applied, but use 1-tag and 0-tag regions for background control and validation
+				\item 2-tag signal region further subdivided into 2-jet and 3-jet bins
+				\item $P_T^V$-based reweighting of important backgrounds (W+jets, t$\bar t$) found to be mismodelled in MC
+			\end{itemize}
+			\begin{columns}[c]
+				\column{0.5\textwidth}
+					\includegraphics[width=1.2\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_delta_phi_uncorrected.pdf}
+				\column{0.5\textwidth}
+					\includegraphics[width=1.2\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_delta_phi_corrected.pdf}
+			\end{columns}			
+		\column{0.5\textwidth}
+		CMS
+			\begin{itemize} \scriptsize
+				\item B-tagging in trigger allows lower $E_T^{miss}$ thresholds for $Z\rightarrow\nu\nu$ analysis
+				\item BDTs trained to distinguish 4 main classes of events: $t\bar{t}$, diboson, Z+jets, VH
+				\item Final discriminating variable is the BDT output--look for excess of event relative to background in the most signal-enriched BDT bins
+				\item Validation cut-based analysis based on $m_{bb}$ \textcolor{BrickRed}{currently looking into whether there is a sensitivity computed for this analysis}
+			\end{itemize}
+			\includegraphics[width=0.7\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_vhbb_mbb_distribution.pdf}			
+	\end{columns}
+\end{frame}
+
+
 
 
 
@@ -453,23 +591,22 @@
 \end{frame}
 
 
-\begin{frame}{ATLAS $VH (H\rightarrow bb)$: Analysis Strategy}
-	
-\end{frame}
 
 
 
-\begin{frame}{ATLAS $VH (H\rightarrow bb)$: m$_{bb}$ for $p_T^V>$200 GeV}
+
+\begin{frame}{ATLAS $VH (H\rightarrow bb)$: Strategy}
 	\scriptsize
 	\textcolor{Green}{Each $p_T^V$ category in ATLAS further divided into 2-jet and 3-jet signal regions}\\
 	2-jet signal region has S/B about 2$\times$ higher than 3-jet region for all categories\\
-
-	\vspace{0.3cm}
+	\textcolor{Green}{Below are the $m_{bb}$ distributions from the 2-jet, 2-tag, $p_T^V>$200 GeV regions (which are the most signal-enriched)}
+	\vspace{-0.2cm}
 
 	\begin{columns}[c]
 	
 		\column{0.33\textwidth}
 			\begin{center} \scriptsize $Z\rightarrow\nu\nu$ \\ \end{center} 
+			\vspace{-0.1cm}
 			\tiny{0 leptons\\
 			\textcolor{Green}{2 b-tags, $p_T^{jet1}>$45 GeV, $p_T^{jet2}>$20 GeV\\}
 			$+\le$ 1 extra jets\\
@@ -480,6 +617,7 @@
 			
 		\column{0.33\textwidth}
 			\begin{center} \scriptsize $W\rightarrow l\nu$ \\ \end{center} 
+			\vspace{-0.1cm}
 			\tiny{1 lepton\\
 			\textcolor{Green}{2 b-tags, $p_T^{jet1}>$45 GeV, $p_T^{jet2}>$20 GeV\\}
 			$+\le$ 1 extra jets\\
@@ -490,6 +628,7 @@
 			
 		\column{0.33\textwidth}
 			\begin{center} \scriptsize $Z\rightarrow ll$ \\ \end{center} 
+			\vspace{-0.1cm}
 			\tiny{2 leptons\\
 			\textcolor{Green}{2 b-tags, $p_T^{jet1}>$45 GeV, $p_T^{jet2}>$20 GeV\\}
 			$+\le$ 1 extra jets\\
@@ -499,6 +638,7 @@
 			\includegraphics[width=\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_vhbb_2lep_2jet_2tags_200GeV.pdf}\\
 			
 	\end{columns}
+	\scriptsize\textcolor{Navy}{ATLAS is also actively investigating multivariate approaches for the $VH\rightarrow bb$ analysis, for possible inclusion in future results}
 \end{frame}
 
 
@@ -525,15 +665,27 @@
 
 
 
+\begin{frame}[c]
+	\begin{center}
+	\huge \textcolor{Navy}{$H\rightarrow \mu\mu$}
+	\end{center}
+\end{frame}
+
+
+
+
 % http://cds.cern.ch/record/1523695/files/ATLAS-CONF-2013-010.pdf
 \begin{frame}{$H\rightarrow\mu \mu$ Motivation}
-	\begin{itemize}
-		\item Small cross section
-		\item Clean final state signature
-		\item Only channel for measuring coupling to second-generation fermions
-		\item Large irreducible background of $Z/\gamma^*\rightarrow\mu\mu$
-		\item Can have enhanced BF from non-SM contributions
-	\end{itemize}
+		\begin{itemize} \scriptsize
+			\item Small cross section
+			\item Clean final state signature
+			\item Only channel for measuring coupling to second-generation fermions
+			\item Large irreducible background of $Z/\gamma^*\rightarrow\mu\mu$
+			\item Can have enhanced BF from non-SM contributions
+		\end{itemize}
+			\includegraphics[width=0.9\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/hmumu_theory.pdf}\\
+			\scriptsize
+			Plots from Tao Han and Bob McElrath showing MSSM enhancements to $H\rightarrow\mu\mu$ as a function of $m_h$ and tan$\beta$ (\href{http://arxiv.org/abs/hep-ph/0201023}{arXiv hep-ph 0201023})
 \end{frame}
 
 
@@ -593,10 +745,10 @@
 	130 & 10.8 & 9.1 & 17.5 & 12.8 & 6.5 & 4.9 \\
 	135 & 11.0 & 10.4 & 20.1 & 14.6 & 7.5 & 5.6 \\
 	140 & 16.8 & 12.9 & 25.0 & 18.2 & 9.3 & 6.9 \\
-	145 & 16.9 & 18.3 & 35.3 & 25.7 & 13.2 & 9.8 \\
-	150 & 22.1 & 31.3 & 60.6 & 44.2 & 22.6 & 16.8 \\ \hline
+	145 & 16.9 & 18.3 & 35.3 & 25.7 & 13.2 & 9.8 \\ \hline
 	\end{tabular}
 	\end{table}
+	\scriptsize\textcolor{Navy}{CMS analysis underway, with results planned for fall 2014}
 \end{frame}
 
 
@@ -605,9 +757,41 @@ to be included if approved
 \end{frame}
 
 
-\begin{frame}{Summary of Fermionic Channels}
+\begin{frame}{Summary of Channels}
+	\begin{columns}[c]
+		\column{0.5\textwidth}
+			ATLAS \\
+			\includegraphics[width=0.9\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_mu_all_channels.pdf}
+		\column{0.5\textwidth}
+			CMS\\
+			\includegraphics[width=0.9\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_mu_all_channels.pdf}		\end{columns}
+	\begin{columns}[c]
+		\column{0.5\textwidth}
 
+			\scriptsize
+			$VH\rightarrow Vbb$ coming into more consistency with SM $\mu$ expectation  \\
+			\textcolor{BrickRed}{Global best-fit signal strength: 1.30$\pm$0.13(stat)$\pm$0.14(sys) at 125.5 GeV}
+		\column{0.5\textwidth}			
+			\scriptsize
+			$VH\rightarrow bb$ slightly above $\mu=1$\\
+			\textcolor{BrickRed}{Global best-fit signal strength: 0.80$\pm$0.14 at 125.7 GeV}
+		
+	\end{columns} 
+	\vspace{0.5cm}
+	\scriptsize
+	$H\rightarrow bb$ has largest error bar, so least effect on final fit value for $\mu$\\
+	$H\rightarrow \tau \tau$ consistent with SM for both collaborations
 \end{frame}
+
+
+\begin{frame}{Implications of Fermionic Channels for Understanding the New Boson}
+	\begin{itemize} \scriptsize
+		\item ATLAS Global fit of $\mu=1.3\pm0.13(stat)\pm0.14(syst)$ has p-value showing 9\% consistency with SM
+		\item However, when you vary QCD scale and PDF for the ggF production, consistency of observed signal strength with SM increases to about 40\%
+		\item Now that bb is on the scene, any first fits of the total width?
+	\end{itemize}
+\end{frame}
+
 
 
 \begin{frame}{Prospects for 2015 and beyond}
@@ -704,6 +888,50 @@ to be included if approved
 	\end{columns}
 
 \end{frame}
+
+
+
+
+\begin{frame}{Binning in $P^V_T$}
+	\scriptsize
+	\textcolor{Teal}{Backgrounds are substantially reduced by requiring a significant boost of the $p_T$ of the vector boson, $p^V_T$. \\}
+	\textcolor{Navy}{The boost categories (all numbers in GeV) below are for CMS and ATLAS.}
+	\begin{columns}[c]
+		\column{0.5\textwidth}
+			\begin{table}
+			\scriptsize
+			\begin{tabular}{c | c | c | c }
+				& low & medium & high \\ \hline
+			W($l\nu$) & 100-130 & 130-180 & $>$180 \\
+			W($\tau\nu$) & & & $>$120 \\
+			Z($\nu\nu$)  & 100-130 & 130-170 & $>$170 \\
+			Z($ll$)   & 50-100 & & $>$100 \\
+			\end{tabular}
+			\end{table}
+		\column{0.5\textwidth}
+	\includegraphics[width=0.25\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/cms_logo.pdf}
+	\end{columns}
+
+	\begin{columns}[c]
+		\column{0.6\textwidth}
+			\begin{table}
+			\scriptsize
+				\begin{tabular}{c | c | c | c | c | c}
+				 & low & med-low & medium & med-high & high \\ \hline
+				W($l\nu$) & 0-90 & 90-120 & 120-160 & 160-200 & $>$200 \\
+				Z($\nu\nu$) & $^{*}$ & $^{*}$ & 120-160 & 160-200 & $>$200 \\
+				Z($ll$) & 0-90 & 90-120 & 120-160 & 160-200 & $>$200 \\
+				\end{tabular}
+			\end{table}
+			\tiny{ 
+			$^{*}$ $E_{T}^{miss}$ trigger becomes 90\% efficient at $E_{T}^{miss}$=120 GeV }\\
+			\vspace{0.3cm}
+			\textcolor{BrickRed}{\scriptsize{Each vector boson final state and $p_T$ category is further subdivided into 2-jet and 3-jet signal regions}}
+		\column{0.2\textwidth}
+	\includegraphics[width=0.6\textwidth]{/Users/caitlinmalone/Documents/ATLAS/HiggsCouplings2013/figures/atlas_logo.pdf}		
+	\end{columns}
+\end{frame}
+
 
 
 \end{document}
